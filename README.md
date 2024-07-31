@@ -6,6 +6,6 @@ You  can check out my first project, Song Circle Schedule Creator through the li
 
 https://709macdonald.github.io/Song-Circle-Schedule-Creator/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=709macdonald)](https://github.com/709macdonald/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=709macdonald&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=709macdonald&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 Fun Fact about me, I'm a musician and a studio owner. I would love to be involved in any projects. 
