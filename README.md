@@ -1,16 +1,9 @@
-## Hi there 👋
+Peter MacDonald's Github 👋
 
-<!--
-**709macdonald/709macdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student with the Get Coding coaching program. Based out of St.John's Newfoundland, I am currently writting in HTML, CSS, and JavaScript. I have a passion for music and hope to make the industry better with intuitive and diverse projects to enhance the musicians experience. I am excited to work on new projects/ideas and see them through. 
 
-Here are some ideas to get you started:
+You  can check out my first project, Song Circle Schedule Creator through the link below. This project was designed to aid in scheduling music festival competitions, such as Song Circles or the Kiwanis Music Festival. 
 
-- 🔭 I'm currently working on an app for finding whats on the other side of the world. 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript from Get Coding in St.John's, Newfoundland.
-- 👯 I’m looking to collaborate on new projects. 
-- 🤔 I’m looking for help with new projects, projects releated to music.
-- 💬 Ask me about my GitHub projects!
-- 📫 How to reach me: 709macdonald@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can cook a mean Kraft Dinner
--->
+https://709macdonald.github.io/Song-Circle-Schedule-Creator/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=709macdonald)](https://github.com/709macdonald/github-readme-stats)
